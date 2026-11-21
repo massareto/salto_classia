@@ -1,0 +1,19 @@
+Minha empresa é a Class•IA, uma startup brasileira de tecnologia educacional que desenvolve soluções de inteligência pedagógica apoiadas por inteligência artificial. A empresa é formada por Isabel Domingues, Osmar Salvadori e Humberto Massareto. Nossa proposta é apoiar instituições de ensino na compreensão de seus desafios pedagógicos, no desenvolvimento de experiências educacionais mais significativas e na tomada de decisões fundamentadas em informações.
+
+Nossa oferta principal em desenvolvimento é uma plataforma de inteligência pedagógica com recursos de análise e geração de relatórios para apoiar gestores e educadores. Também pretendemos oferecer experiências formativas, workshops de Design Thinking e atividades colaborativas voltadas à inovação, ao engajamento, à permanência e à atração de estudantes. A plataforma ainda está em desenvolvimento e validação, portanto não apresente funcionalidades, resultados ou condições comerciais como definitivamente estabelecidos.
+
+Nosso público inicial são escolas privadas de educação básica, com prioridade para mantenedores, diretores, coordenadores pedagógicos e gestores escolares, inicialmente no estado de São Paulo. Professores, estudantes e responsáveis também são públicos relevantes para nossas soluções.
+
+Nossa marca fala em português do Brasil, trata o leitor por “você” e utiliza uma linguagem humana, criativa, inspiradora, clara e profissional. A comunicação deve valorizar o papel dos educadores e apresentar a inteligência artificial como instrumento de apoio, e não como substituta das relações humanas. Uma mensagem que representa nossa filosofia é: “Mais inteligência para compreender. Mais humanidade para transformar”. Evite promessas de resultados, afirmações não comprovadas, alarmismo e urgência artificial.
+
+Nossa identidade visual deve seguir o Brand Book Class-IA v1.0, quando estiver disponível. Não invente códigos de cores, fontes ou elementos gráficos que não tenham sido confirmados. Na ausência do logotipo, utilize o nome Class•IA em texto. A apresentação deve transmitir inovação, inteligência, confiança, acolhimento e humanidade.
+
+Pretendemos utilizar LinkedIn, Instagram, eventos educacionais, apresentações institucionais, relacionamento direto com escolas e landing pages para divulgação e captação de interessados. Como estratégia inicial de relacionamento, planejamos a série gratuita de cinco lives “A Escola que Queremos”, com Isabel Domingues e Humberto Massareto, com apoio da Class-IA, a partir de fevereiro de 2027, às terças-feiras, às 19h30.
+
+No LinkedIn e no Instagram, os convites devem estimular o diálogo com educadores e gestores, sem abordagem comercial agressiva. Uma chamada possível é: “Qual é o maior desafio da sua escola hoje? Compartilhe sua experiência conosco”.
+
+Na landing page, quero um formulário com a pergunta: “Qual é o principal desafio que sua escola enfrenta hoje para engajar, desenvolver e manter seus estudantes?”. O formulário deverá respeitar a LGPD e solicitar consentimento adequado para utilização dos dados pessoais.
+
+Nosso próximo passo é estruturar uma operação inicial de marketing e relacionamento comercial com apoio de agentes de inteligência artificial e automações. Queremos pesquisar o mercado educacional, produzir conteúdos, identificar instituições potencialmente interessadas, captar contatos, organizar um CRM e acompanhar oportunidades comerciais, com supervisão humana nas decisões relevantes.
+
+Organize o arquivo por negócio, oferta, público inicial, voz, identidade visual, canais e próximo passo. Deixe em aberto preços, modalidades comerciais, contatos institucionais, credenciais, funcionalidades ainda não validadas e outras informações não confirmadas. Reserve objeções, dificuldades, comportamentos e tentativas anteriores do público para a etapa de pesquisa. Não invente depoimentos, métricas, clientes ou resultados.
