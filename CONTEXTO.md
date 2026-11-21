@@ -63,6 +63,11 @@
 
 ## 5. Identidade visual
 
+**Avatar padrão para os próximos vídeos no HeyGen**
+
+- **Avatar Look ID:** `e34d78bd7757469c9102b267ddb0bbec`
+- **Nome do look:** Humberto Massareto
+
 **Nome preferencial em materiais institucionais:** Class•IA; aceitar Class-IA quando houver limitação técnica.
 
 **Assinatura registrada:** “O Algoritmo da Escola Magnética”.
